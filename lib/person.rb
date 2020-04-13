@@ -8,12 +8,12 @@ def name
   @name
 end
 
-def jobs=(new_job)
-  @jobs = new_job
+def job=(new_job)
+  @job = new_job
 end
 
-def jobs
-  @jobs
+def job
+  @job
 end
 
 end
